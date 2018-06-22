@@ -1,0 +1,19 @@
+{
+  "name": "my-svg",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "le",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1"
+  },
+  "devDependencies": {
+    "vuepress": "^0.10.2"
+  }
+}
